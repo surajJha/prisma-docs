@@ -1,0 +1,21 @@
+site_name: Indus Prisma
+nav:
+  - Home: index.md
+  - About: about.md
+theme: 
+  name: material
+  palette:
+    primary: 'deep orange'
+    accent: 'deep orange'
+  logo:
+    img/f.ico    
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+
+
+      
+
